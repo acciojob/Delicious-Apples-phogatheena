@@ -1,1 +1,33 @@
 /* your code here */
+ul{
+	list-style-type:none;
+}
+.controls
+{
+	display:flex;
+	justify-content:space-between;
+}
+ul{
+	display:flex;
+}
+.hm
+{
+	border:1px solid lightgray;
+	margin:5px;
+}
+.photo-main
+{
+	background-color:lightgreen;
+	width:max-content;
+	padding: 10px;
+}
+.photo-container
+{
+	background-color:white;;
+	width:max-content;
+}
+body
+{
+	background-color:green;
+	padding:50px;
+}
